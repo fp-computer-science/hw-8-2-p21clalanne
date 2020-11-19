@@ -1,0 +1,8 @@
+Question 2
+You cannot check if the list is sorted like this.
+
+Question 3
+There should have only been one input statement.
+
+Question 4
+This only works for objects of a specific length.
